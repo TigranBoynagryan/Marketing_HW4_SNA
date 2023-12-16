@@ -40,4 +40,4 @@ The analysis identifies key nodes and communities within the network that are in
 ## Conclusion
 
 The project demonstrates the application of social network analysis in marketing, highlighting how understanding network dynamics can inform strategic decision-making for targeted marketing campaigns.
-```
+
