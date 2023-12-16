@@ -1,4 +1,4 @@
-```markdown
+
 # Social Network Analysis for Marketing Strategy
 
 ## Project Files
